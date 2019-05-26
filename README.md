@@ -2,7 +2,9 @@
 
 To compile on linux/ubuntu
 
-  javac mainifile.java
+  javac mainfile.java
+  
+  
   java mainfile
 
 
