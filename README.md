@@ -1,6 +1,6 @@
 # PROGRAMMING-LANGUAGES
 
-To compile on linux/ubuntu
+To compile JAVA on linux/ubuntu
 
   javac mainfile.java
   
